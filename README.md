@@ -26,3 +26,4 @@ Este projeto faz parte dos desafios da **NextMasters**, uma iniciativa criada pa
 ## Sobre a NextMasters  
 A **NextMasters** foi criada com o objetivo de lançar desafios que ajudem os membros da **CompleSoft** a evoluir e se destacar no desenvolvimento com **Next.js** e outras tecnologias modernas.  
 
+## By LSDEVMASTER👨🏾‍💻
