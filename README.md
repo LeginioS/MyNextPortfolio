@@ -1,14 +1,13 @@
+# Desafio NextMasters - Meu Portfólio  
 
-# Meu Portfólio  
+Este projeto faz parte dos desafios da **NextMasters**, uma iniciativa criada para aprimorar as habilidades dos membros da **CompleSoft** por meio de desafios práticos. O objetivo deste desafio é desenvolver um portfólio moderno e dinâmico utilizando **Next.js**.  
 
-Este é o meu portfólio pessoal, desenvolvido utilizando **Next.js**. O objetivo deste projeto é apresentar meus trabalhos, habilidades e experiências de forma interativa e dinâmica.  
-
-# Tecnologias utilizadas  
+## Tecnologias utilizadas  
 - **Next.js**  
 - **React**  
- 
 
-# Como rodar o projeto  
+
+## Como rodar o projeto  
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/seu-usuario/portfolio.git
@@ -23,4 +22,7 @@ Este é o meu portfólio pessoal, desenvolvido utilizando **Next.js**. O objetiv
    npm run dev
    ```
 4. Abra o navegador e acesse **http://localhost:3000**  
+
+## Sobre a NextMasters  
+A **NextMasters** foi criada com o objetivo de lançar desafios que ajudem os membros da **CompleSoft** a evoluir e se destacar no desenvolvimento com **Next.js** e outras tecnologias modernas.  
 
