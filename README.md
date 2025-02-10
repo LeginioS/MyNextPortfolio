@@ -1,6 +1,6 @@
 # Desafio NextMasters - Meu Portfólio  
 
-Este projeto faz parte dos desafios da **NextMasters**, uma iniciativa criada para aprimorar as habilidades dos membros da **CompleSoft** por meio de desafios práticos. O objetivo deste desafio é desenvolver um portfólio moderno e dinâmico utilizando **Next.js**.  
+Este projeto faz parte dos desafios da **NextMasters**, uma iniciativa criada para aprimorar as habilidades dos membros da **CampleSoft** por meio de desafios práticos. O objetivo deste desafio é desenvolver um portfólio moderno e dinâmico utilizando **Next.js**.  
 
 ## Tecnologias utilizadas  
 - **Next.js**  
@@ -24,6 +24,6 @@ Este projeto faz parte dos desafios da **NextMasters**, uma iniciativa criada pa
 4. Abra o navegador e acesse **http://localhost:3000**  
 
 ## Sobre a NextMasters  
-A **NextMasters** foi criada com o objetivo de lançar desafios que ajudem os membros da **CompleSoft** a evoluir e se destacar no desenvolvimento com **Next.js** e outras tecnologias modernas.  
+A **NextMasters** foi criada com o objetivo de lançar desafios que ajudem os membros da **CampleSoft** a evoluir e se destacar no desenvolvimento com **Next.js** e outras tecnologias modernas.  
 
 ## By LSDEVMASTER👨🏾‍💻
