@@ -59,6 +59,103 @@ export default function Services(){
                 <h3>Editor de Vídeo</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
             </div>
+
+            <div className="services-box">
+                <div className="icon">
+                <i className='bx bx-slideshow' ></i>
+                <a href="#"><i className='bx bx-arrow-back' ></i></a>
+                </div>
+                <h3>Editor de Vídeo</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+            </div>
+
+            <div className="services-box">
+                <div className="icon">
+                <i className='bx bx-slideshow' ></i>
+                <a href="#"><i className='bx bx-arrow-back' ></i></a>
+                </div>
+                <h3>Editor de Vídeo</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+            </div>
+
+            <div className="services-box">
+                <div className="icon">
+                <i className='bx bx-slideshow' ></i>
+                <a href="#"><i className='bx bx-arrow-back' ></i></a>
+                </div>
+                <h3>Editor de Vídeo</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+            </div>
+
+            <div className="services-box">
+                <div className="icon">
+                <i className='bx bx-slideshow' ></i>
+                <a href="#"><i className='bx bx-arrow-back' ></i></a>
+                </div>
+                <h3>Editor de Vídeo</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+            </div>
+
+            <div className="services-box">
+                <div className="icon">
+                <i className='bx bx-slideshow' ></i>
+                <a href="#"><i className='bx bx-arrow-back' ></i></a>
+                </div>
+                <h3>Editor de Vídeo</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+            </div>
+
+            <div className="services-box">
+                <div className="icon">
+                <i className='bx bx-slideshow' ></i>
+                <a href="#"><i className='bx bx-arrow-back' ></i></a>
+                </div>
+                <h3>Editor de Vídeo</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+            </div>
+
+            <div className="services-box">
+                <div className="icon">
+                <i className='bx bx-slideshow' ></i>
+                <a href="#"><i className='bx bx-arrow-back' ></i></a>
+                </div>
+                <h3>Editor de Vídeo</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+            </div>
+
+            <div className="services-box">
+                <div className="icon">
+                <i className='bx bx-slideshow' ></i>
+                <a href="#"><i className='bx bx-arrow-back' ></i></a>
+                </div>
+                <h3>Editor de Vídeo</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+            </div>
+            <div className="services-box">
+                <div className="icon">
+                <i className='bx bx-slideshow' ></i>
+                <a href="#"><i className='bx bx-arrow-back' ></i></a>
+                </div>
+                <h3>Editor de Vídeo</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+            </div>
+
+            <div className="services-box">
+                <div className="icon">
+                <i className='bx bx-slideshow' ></i>
+                <a href="#"><i className='bx bx-arrow-back' ></i></a>
+                </div>
+                <h3>Editor de Vídeo</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+            </div>
+            <div className="services-box">
+                <div className="icon">
+                <i className='bx bx-slideshow' ></i>
+                <a href="#"><i className='bx bx-arrow-back' ></i></a>
+                </div>
+                <h3>Editor de Vídeo</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+            </div>
         </div>
        </section>
     )
