@@ -12,7 +12,7 @@ export default function Services(){
                 <a href="#"><i className='bx bx-arrow-back' ></i></a>
                 </div>
                 <h3>Progrmador</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa.</p>
             </div>
 
             <div className="services-box">
@@ -21,7 +21,7 @@ export default function Services(){
                 <a href="#"><i className='bx bx-arrow-back' ></i></a>
                 </div>
                 <h3>Estudante</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad.</p>
             </div>
 
             <div className="services-box">
@@ -30,7 +30,7 @@ export default function Services(){
                 <a href="#"><i className='bx bx-arrow-back' ></i></a>
                 </div>
                 <h3>Designner</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta, repudiandae enim? Iusto rem saepe, praesentium totam similique voluptate iste!</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium rem laborum iusto facilis consequatur reiciendis ad consequuntur ipsum ipsa? Dicta.</p>
             </div>
 
             <div className="services-box">

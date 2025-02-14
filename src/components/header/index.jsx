@@ -1,7 +1,12 @@
+"use client"
 import "boxicons/css/boxicons.min.css";
+import { useState } from "react"
 import "./styles.css"
 import Link from "next/link";
 export function Header(){
+    const [activeTab, setActiveTab] = useState("experiencia"
+        
+    )
     return(
         <header>
          <a href="#" className={"logo"}> Legínio. </a>
