@@ -1,0 +1,71 @@
+.contact-conteiner{
+display: grid;
+grid-template-columns: 1fr 1.3fr;
+gap: 3rem;
+}
+
+.contact-conteiner .contect-box:first-child{
+    align-self: center;
+}
+.contect-box h2{
+ font-size: 4rem;
+}
+.contect-box p{
+    font-size: 1.6rem;
+}
+.contect-box .desc{
+    margin: 1.5rem 0 2.5rem;
+}
+.contect-box .contact-detail{
+    display:  flex;
+    align-items: center;
+    margin: 2rem 0;
+} .contact-detail i{
+    display: inline-flex;
+    background-color: var(--second-bg-color);
+    color: var(--main-color);
+    font-size: 3rem;
+    padding: 1.2rem;
+    border-radius: .6rem;
+    margin-right: 1.5rem;
+}
+.contact-detail .detail p:first-child{
+    color: var(--main-color);
+}
+
+.contect-box form{
+    background: var(--second-bg-color);
+    padding: 2.5rem 3.5rem 3.5rem;
+    border-radius: .6rem;
+    text-align: center;
+}
+.contect-box .heading{
+    font-size: 3.5rem;
+}
+
+.contect-box .field-box{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 2rem;
+}
+.contect-box .field-box input,
+.contect-box .field-box textarea{
+    padding: 1.5rem;
+    background: var(--bg-color);
+    border: .15rem solid var(--bg-color);
+    font-size: 1.6rem;
+    color: var(--white-color);
+}
+.contect-box .field-box textarea{
+    grid-column: 1 / -1 ;
+    height: 26rem;
+    resize: none;
+}
+
+.contect-box .field-box input:focus,
+.contect-box .field-box textarea:focus{
+    border-color: var(--main-color);
+}
+.contect-box .btn{
+    margin-top: 2rem;
+}

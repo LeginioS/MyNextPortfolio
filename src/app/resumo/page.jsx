@@ -259,7 +259,7 @@ export default function resumo() {
         <div className={`resume-detail skills ${
               activeTab === "habilidades" ? "active" : ""
             }`}>
-            <h2 className="heading">Minha <span>Habilidades</span></h2>
+            <h2 className="heading">Minhas <span>Habilidades</span></h2>
             <p className="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quisquam corporis odio dignissimos illum maxime debitis vel earum unde, ipsa temporibus excepturi tempora in laborum iste quas id, ratione nesciunt provident! Natus temporibus harum eaque.</p>
             <div className="resumo-list">
             <div className="resumo-item">
@@ -339,8 +339,8 @@ export default function resumo() {
         <div   className={`resume-detail about ${
               activeTab === "sobre" ? "active" : ""
             }`}>
-            <h2 className="heading">Minha <span>Sobre Me</span></h2>
-            <p className="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quisquam corporis odio dignissimos illum maxime debitis vel earum unde, ipsa temporibus excepturi tempora in laborum iste quas id, ratione nesciunt provident! Natus temporibus harum eaque.</p>
+            <h2 className="heading"> <span>Sobre Me</span></h2>
+            
             <div className="resumo-list">
             <div className="resumo-item">
                 <p><span>Nome: </span> Legínio sebastião</p>
